@@ -1,6 +1,6 @@
 # mudscan
 
-This tool was created in an effort to learn defense evasion during port scanning. Rather than tricking the firewall to evade detection, this tool aims to "muddy-up" the logs.
+This tool is basically a wrapper around nmap and created in an effort to learn defense evasion during port scanning. Rather than tricking the firewall to evade detection, this tool aims to "muddy-up" the logs.
 
 It does this by scanning two networks at the same time.
 
